@@ -6,7 +6,7 @@
 
   "description": "Facebook automation panel with message sender and group monitor",
 
-  "main": "server.js",
+  "main": "index.js",
 
   "scripts": {
 
